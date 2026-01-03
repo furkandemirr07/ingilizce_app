@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "532660982994",
+    "project_id": "flutter-6bfc9",
+    "storage_bucket": "flutter-6bfc9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532660982994:android:ce215abdb9efa9b30b090b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIwWfZjAgH0oi3gP-rps_yurx9u8youw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532660982994-bdjr2l83r85ih99rpvp8mh2f23d9o72m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.odevLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532660982994:android:39191db8fc94f8600b090b",
+        "android_client_info": {
+          "package_name": "com.example.ingilizce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIwWfZjAgH0oi3gP-rps_yurx9u8youw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532660982994-bdjr2l83r85ih99rpvp8mh2f23d9o72m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.odevLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532660982994:android:c8483c464cc99ef80b090b",
+        "android_client_info": {
+          "package_name": "com.example.odev_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIwWfZjAgH0oi3gP-rps_yurx9u8youw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532660982994-bdjr2l83r85ih99rpvp8mh2f23d9o72m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.odevLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532660982994:android:1afa87605f6b21ae0b090b",
+        "android_client_info": {
+          "package_name": "com.example.u_241109024_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIwWfZjAgH0oi3gP-rps_yurx9u8youw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532660982994-j5d6mh1mpnrhk0j65bmk9v87u4eol695.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532660982994-bdjr2l83r85ih99rpvp8mh2f23d9o72m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.odevLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
